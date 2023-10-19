@@ -1,70 +1,86 @@
-.bg-discord{
+.bg-discord {
     background-color: #5865F2;
 }
-.bg-dark{
+
+.bg-dark {
     background-color: #343A40;
 }
-.navbar{
+
+.navbar {
     padding: 20px;
 }
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
-.navbar-brand{
+
+.navbar-brand {
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
 }
-.container-1{
-    margin-bottom: 50px;
+
+.container-1 {
+    margin-bottom: 10px;
 }
-.bg-grey{
+
+.bg-grey {
     background-color: #23272a;
 }
-.card{
+
+.card {
     border-width: 0px;
     border-radius: 25px;
     color: #ffffff;
     margin-bottom: 20px
 }
-.brand-line{
+
+.brand-line {
     font-family: 'Montserrat', sans-serif;
     margin-top: 40px;
     margin-bottom: 40px;
     margin-left: 15px;
     color: #ffffff;
 }
-.title-line{
+
+.title-line {
     font-family: 'Montserrat', sans-serif;
     padding-top: 25px;
     color: #ffffff;
     margin-left: 40px;
 }
-.card-img-top{
+
+.card-img-top {
     padding: 0px;
     border-radius: 12px;
     margin-bottom: 10px;
 }
-.btn-discord{
+
+.btn-discord {
     color: #ffffff;
     background-color: #5865F2;
     border-color: #5865F2;
 }
-.btn-discord:hover{
+
+.btn-discord:hover {
     color: #ffffff;
     background-color: #7289DA;
     border-color: #7289DA;
 }
-.big-text{
+
+.big-text {
     font-size: 36px;
 }
-.card-text{
+
+.card-text {
     font-size: 16px;
 }
-input{
+
+input {
     margin: 25px;
     border-color: #5865F2;
     border-width: 5px;
     color: #5865F2;
 }
-.form-control{
+
+.form-control {
     border-color: #5865F2;
     border-width: 2px;
     border-radius: 25px;
@@ -72,21 +88,25 @@ input{
     margin-left: 40px;
     margin-right: 40px;
 }
-.form-control:active{
+
+.form-control:active {
     border-color: #5865F2;
     border-width: 3px;
     border-radius: 25px;
     color: #5865F2;
 }
-.list-group{
+
+.list-group {
     list-style: none;
     background-color: #23272a;
 }
-.list-group-item{
+
+.list-group-item {
     list-style: none;
     background-color: #343A40;
     border-width: 0px;
 }
-.date{
+
+.date {
     font-size: 12px;
 }
